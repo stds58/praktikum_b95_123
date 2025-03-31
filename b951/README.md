@@ -5,4 +5,4 @@
 Установите пакет через npm:
 
 ```bash
-npm install b951
+npm install jqj-b951-fbdghfghjhjjg
